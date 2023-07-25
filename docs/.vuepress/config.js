@@ -23,7 +23,12 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '项目搭建文档', link: 'https://www.nunui.cn/course/myauth' },
+      {
+        text: '项目搭建文档', link: '', items: [
+          { text: '后端部署教程', link: 'https://www.cnblogs.com/daen/p/15997872.html' },
+          { text: '前端部署教程', link: 'https://www.cnblogs.com/daen/p/16015813.html' },
+        ]
+      },
       // {
       //   text: '项目地址①(Daen原版)', link: '', items: [
       //     { text: '后端Gitee地址', link: 'https://gitee.com/daenmax/myauth' },
