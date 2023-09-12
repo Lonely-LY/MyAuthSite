@@ -25,8 +25,8 @@ module.exports = {
       { text: '首页', link: '/' },
       {
         text: '项目搭建文档', link: '', items: [
-          { text: '后端部署教程', link: 'https://www.cnblogs.com/daen/p/15997872.html' },
-          { text: '前端部署教程', link: 'https://www.cnblogs.com/daen/p/16015813.html' },
+          { text: '后端部署教程', link: 'https://www.kxzi.cn/lonely/120.html' },
+          { text: '前端部署教程', link: 'https://www.kxzi.cn/lonely/145.html' },
         ]
       },
       // {
@@ -40,10 +40,10 @@ module.exports = {
         text: '项目地址', link: '', items: [
           { text: '后端Gitee地址', link: 'https://gitee.com/Lonely_LY/myauth' },
           { text: '后端API接口地址', link: 'https://www.apifox.cn/apidoc/shared-f5728933-86e8-4767-a255-926500e3e31a' },
-          { text: '前端Gitee地址', link: 'https://gitee.com/fieldtianye/my-auth-web/releases' },
+          { text: '前端Gitee地址', link: 'https://gitee.com/fieldtianye/my-auth-web' },
         ]
       },
-      { text: 'MyAuthWeb预览', link: 'https://www.cnblogs.com/daen/p/16019664.html' },
+      { text: 'MyAuthWeb预览', link: 'https://www.kxzi.cn/lonely/70.html' },
       // {
       //   text: '配置', link: '/pages/a20ce8/', items: [
       //     { text: '主题配置', link: '/pages/a20ce8/' },
