@@ -54,7 +54,7 @@ postList: none
     <tr>
       <td align="center" valign="middle">
         <img :src="$withBase('/img/qrcode/qqq.png')" alt="群号: 1016357430" class="no-zoom" style="width:120px;margin: 10px;">
-        <p>MyAuth QQ群: <a href="https://jq.qq.com/?_wv=1027&k=kKC7sgYH" target="_blank">1016357430</a></p>
+        <p>MyAuth交流QQ群: <a href="https://jq.qq.com/?_wv=1027&k=kKC7sgYH" target="_blank">1016357430</a></p>
       </td>
     </tr>
   </tbody>
