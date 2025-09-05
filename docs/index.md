@@ -53,8 +53,8 @@ postList: none
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <img :src="$withBase('/img/qrcode/qqq.png')" alt="群号: 1016357430" class="no-zoom" style="width:120px;margin: 10px;">
-        <p>MyAuth交流QQ群: <a href="https://jq.qq.com/?_wv=1027&k=kKC7sgYH" target="_blank">1016357430</a></p>
+        <img :src="$withBase('/img/qrcode/qqq.png')" alt="群号: 542412974" class="no-zoom" style="width:120px;margin: 10px;">
+        <p>MyAuth交流QQ群: <a href="https://qm.qq.com/q/l4a6d2ggAE" target="_blank">542412974</a></p>
       </td>
     </tr>
   </tbody>
